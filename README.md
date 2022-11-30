@@ -1,22 +1,11 @@
-# Musomatic
+# Musixverse
 
 <img src="./musomatic_home.png" alt="Musomatic Home"/>
 
 <br/>
-Musomatic is a decentralized platform where musicians can put up music/songs as NFTs. These NFTs can then be traded and each time an NFT gets traded, the musician will receive a certain percent of the trade as royalty! The main essence of the platform is to uplift music creators as they really do not get enough recognition and monetary benefits or royalties from the current available sources.
+Musixverse is a decentralized platform where musicians can put up music/songs as NFTs. These NFTs can then be traded and each time an NFT gets traded, the musician will receive a certain percent of the trade as royalty! The main essence of the platform is to uplift music creators as they really do not get enough recognition and monetary benefits or royalties from the current available sources.
 
-Website link- <a href="https://pushpit07.github.io/Musomatic/">Musomatic</a>
 
-## Tech Used
-
-### Frontend
-
-<p align="left">
-<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
 
 ### Smart Contract and Backend
 
@@ -33,9 +22,9 @@ Website link- <a href="https://pushpit07.github.io/Musomatic/">Musomatic</a>
 
 -   Fork the repo to your account
 
--   Clone the forked repo to your local system using `git clone https://github.com/<your-username>/Musomatic`
+-   Clone the forked repo to your local system using `git clone https://github.com/<your-username>/Musixverse--An-NFT-Marketplace-for-Musicians
 
--   Connect your local repo to the upstream using `git remote add upstream https://github.com/Pushpit07/Musomatic`
+-   Connect your local repo to the upstream using `git remote add upstream https://github.com/Apollo9999/Musixverse--An-NFT-Marketplace-for-Musicians
 
 -   Run `npm install` to install npm dependencies
 
