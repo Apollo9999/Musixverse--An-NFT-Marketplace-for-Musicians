@@ -1,9 +1,9 @@
 {
-  "homepage": "https://musomatic.vercel.app/",
-  "name": "musomatic",
+  
+  "name": "Musixverse An NFT Marketplace for Musician",
   "version": "0.1.0",
   "description": "Music NFTs",
-  "author": "pushpit07@gmail.com",
+  "author": "skjkiran0212@gmail.com",
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.5",
     "@metamask/onboarding": "^1.0.1",
